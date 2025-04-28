@@ -1,6 +1,6 @@
 # Cryptocurrency-Market-Analysis
 
-## 📚 Project Description
+Project Description:
 
 This project analyzes real-world cryptocurrency data loaded into **Snowflake** from a CSV file. Using **SQL**, we clean, transform, and analyze key metrics such as market cap, trading volume, and price dynamics.
 
@@ -8,14 +8,15 @@ Through various queries, we aim to uncover insights about market structure, inve
 
 ---
 
-## 🛠️ Tools and Technologies
+Tools and Technologies"
+
 - **SQL** (Snowflake)
 - **Python/Colab** (for data scraping if needed)
 - Power BI (for visualization)
 
 ---
 
-## 🧹 Data Cleaning
+Data Cleaning:
 
 - Removed `$` and `,` symbols from `current_price`, `market_cap`, `total_volume`.
 - Converted text fields to numeric fields using `TO_NUMBER(REPLACE(...))`.
@@ -23,7 +24,7 @@ Through various queries, we aim to uncover insights about market structure, inve
 
 ---
 
-## 🔍 Key Analyses
+Key Analyses:
 
 - Top Cryptos by Market Cap and Volume
 - Price to Volume Ratios
@@ -34,7 +35,7 @@ Through various queries, we aim to uncover insights about market structure, inve
 
 ---
 
-## 📊 Visualizations (See `visuals/` folder)
+Visualizations (See `visuals/` folder):
 
 - **Bar Chart**: Top 5 Cryptos by Market Cap
 - **Bar Chart**: Top 5 Cryptos by Trading Volume
@@ -44,7 +45,7 @@ Through various queries, we aim to uncover insights about market structure, inve
 
 ---
 
-## 📋 Key Business Insights
+Key Business Insights:
 
 - Bitcoin dominates both price and market cap but others (Ethereum, Tether) dominate liquidity and trading volume.
 - Stablecoins provide significant liquidity despite low volatility.
