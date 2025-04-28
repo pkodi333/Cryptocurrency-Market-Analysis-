@@ -1,0 +1,17 @@
+
+---
+
+## 🚀 How to Run
+
+1. Load the dataset into Snowflake.
+2. Create the cleaned view (`CLEANED_CRYPTO`).
+3. Run analysis queries in `scripts/analysis_queries.sql`.
+4. Use Power BI to create visuals from the `CLEANED_CRYPTO` view.
+
+---
+## ✨ Future Work
+- Dynamic time series analysis (track price over time)
+- Web scraping live data using Python
+- Predictive analytics (forecast price based on volume trends)
+
+
