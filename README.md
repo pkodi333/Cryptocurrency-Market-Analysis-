@@ -12,7 +12,6 @@ Tools and Technologies"
 
 - **SQL** (Snowflake)
 - **Python/Colab** (for data scraping if needed)
-- Power BI (for visualization)
 
 ---
 
@@ -33,15 +32,6 @@ Key Analyses:
 - Cryptos with High Activity but Low Prices
 - Average Market Metrics
 
----
-
-Visualizations (See `visuals/` folder):
-
-- **Bar Chart**: Top 5 Cryptos by Market Cap
-- **Bar Chart**: Top 5 Cryptos by Trading Volume
-- **Pie Chart**: Market Cap Distribution by Tiers
-- **Scatter Plot**: Market Cap vs Total Volume (size = current price)
-- **Heatmap**: Correlation between Price, Market Cap, and Volume
 
 ---
 
